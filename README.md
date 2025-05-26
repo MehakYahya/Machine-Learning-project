@@ -1,5 +1,15 @@
-## You are supposed to choose a dataset (DS1) of your own choice. You may collect this data from any data source (such as an online, physical archive, survey or review papers, interviews, or workshops etc.). It must consist of nominal, ordinal, interval, or categorical features values. You are required to apply the following techniques:
+# Machine Learning Project: Data Preprocessing, Clustering, Feature Selection, Imbalance Handling & Classification
 
+## Datasets Used
+1. **Video Game Sales Dataset**  
+   Source: Kaggle  
+   Features include: Platform, Publisher, Year_of_Release, Critic_Score, User_Score, Genre, etc.
+
+2. **Student Performance Dataset**  
+   Source: Kaggle  
+   Features include: Gender, Race/Ethnicity, Parental Level of Education, Lunch, Test Preparation Course, Math Score, Reading Score, Writing Score,  Performance (target variable)
+
+## Techniques Implemented
 1.	Apply possible data preprocessing techniques.
    
 2.	Apply any two unsupervised learning techniques (even if the data is labeled) along with clustering validation techniques to ensure the validity of clusters.
